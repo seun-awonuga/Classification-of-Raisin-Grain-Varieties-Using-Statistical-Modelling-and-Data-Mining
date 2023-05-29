@@ -8,3 +8,13 @@ image processing techniques. Statistical modelling is conducted using Logistic r
 **************
 # I. Dataset Description
 The dataset has a dimension of 900 observations and 8 features. The first 7 columns of the dataset are the morphological independent variables listed as ‘Area’, ‘MajorAxisLength’, ‘MinorAxisLength’ ‘Eccentricity’, ‘ConvexArea’, ‘Extent’, and ‘Perimeter’. The last column labelled ‘Class’ is the dependent variable and at the same time target class
+
+# II. Methods
+The methodology will be implemented with R programming language. Also, R is well built to perform a huge variety of run arithmetic calculations and scientific implementation of machine learning algorithms
+A.  Descriptive statistical summary (mean, skewness, kurtosis, boxplot)
+B.  Collinearity Analysis using Spearman correlation rank
+C.  Feature selection using Random Forest
+D.  Statistical Modelling using Logistic regression
+
+
+
