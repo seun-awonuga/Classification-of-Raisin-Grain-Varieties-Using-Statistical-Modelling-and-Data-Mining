@@ -4,9 +4,5 @@ Two raisin grain varieties (Besni and Kecimen) were classified in this project u
 image processing techniques. Statistical modelling is conducted using Logistic regression model to measure the statistical significance of combined raisin features in determining the two (2) raisin varieties
 
 **************
-The dataset has a dimension of 900 observations and 8 
-features. The first 7 columns of the dataset are the morphological 
-independent variables listed as ‘Area’, ‘MajorAxisLength’, 
-‘MinorAxisLength’ ‘Eccentricity’, ‘ConvexArea’, ‘Extent’, and 
-‘Perimeter’. The last column labelled ‘Class’ is the dependent 
-variable and at the same time target class
+# Dataset Description
+The dataset has a dimension of 900 observations and 8 features. The first 7 columns of the dataset are the morphological independent variables listed as ‘Area’, ‘MajorAxisLength’, ‘MinorAxisLength’ ‘Eccentricity’, ‘ConvexArea’, ‘Extent’, and ‘Perimeter’. The last column labelled ‘Class’ is the dependent variable and at the same time target class
