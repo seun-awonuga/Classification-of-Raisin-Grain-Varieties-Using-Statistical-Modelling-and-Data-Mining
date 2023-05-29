@@ -1,4 +1,4 @@
-# Classification-of-Raisin-Grain-Varieties-Using-Statistical-Modelling-and-Data-Mining
+# Classification-of-Raisin-Grain-Varieties-Using-Statistical-Modelling-and-Data-Mining (In R programming)
 *************************
 # Project Summary
 The goal of this project is to apply statistical analysis and modelling techniques to address the problem of raisin classification. 
