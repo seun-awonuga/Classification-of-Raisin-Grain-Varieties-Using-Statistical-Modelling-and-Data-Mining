@@ -18,5 +18,9 @@ The methodology will be implemented with R programming language. Also, R is well
 3.  Feature selection using Random Forest
 4.  Statistical Modelling using Logistic regression
 
+# III. Results from Statistical Analysis 
+![image](https://github.com/oawonuga92/Classification-of-Raisin-Grain-Varieties-Using-Statistical-Modelling-and-Data-Mining/assets/61459286/dc78cdce-f5b6-412c-8d7a-58364085d2e6)
+
+
 
 
