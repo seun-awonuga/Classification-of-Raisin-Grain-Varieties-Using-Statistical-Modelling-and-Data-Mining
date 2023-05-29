@@ -21,8 +21,10 @@ The methodology will be implemented with R programming language. Also, R is well
 ***********************
 
 # III. Results from Statistical Modelling (Logistic Regression Analysis) 
-1.  Results from the statistical modelling technique show that raisin “Perimeter” and “MajorAxisLength” predictors are statistically significant in 95% CI, and p-values for any bivariate or multivariate model, however, both predictors produce lower odds in determining a kecimen raisin for every 1 unit increase in their measurements. 
-2.  The “Extent” predictor was observed to be statistically significant in 95% CI, and p-values at α = 0.05, producing 18.9 times higher odds in predicting a kecimen variety when combined with “perimeter” predictor
+1.  The spearman correlation matrix and scatterplot between Perimeter and Area, MajorAxisLength, MinorAxisLength, ConvexArea is a very strong positive relationship (r value from +0.80 to +0.99).
+2.  Extent feature has a weak relationship (r values from -0.3 to 0.1) between the 4 predictors above.
+3.  Results from the statistical modelling technique (logistic regression) show that raisin “Perimeter” and “MajorAxisLength” predictors are statistically significant in 95% CI, and p-values for any bivariate or multivariate model, however, both predictors produce lower odds in determining a kecimen raisin for every 1 unit increase in their measurements. 
+4.  The “Extent” predictor was observed to be statistically significant in 95% CI, and p-values at α = 0.05, producing 18.9 times higher odds in predicting a kecimen variety when combined with “perimeter” predictor
 *************
 ![image](https://github.com/oawonuga92/Classification-of-Raisin-Grain-Varieties-Using-Statistical-Modelling-and-Data-Mining/assets/61459286/1d3634aa-981c-4b9d-9245-0dc51634265a)
 
