@@ -20,7 +20,7 @@ The methodology will be implemented with R programming language. Also, R is well
 
 ***********************
 
-# III. Results from Statistical Analysis 
+# III. Results from Statistical Modelling (Logistic Regression Analysis) 
 1.  Results from the statistical modelling technique show that raisin “Perimeter” and “MajorAxisLength” predictors are statistically significant in 95% CI, and p-values for any bivariate or multivariate model, however, both predictors produce lower odds in determining a kecimen raisin for every 1 unit increase in their measurements. 
 2.  The “Extent” predictor was observed to be statistically significant in 95% CI, and p-values at α = 0.05, producing 18.9 times higher odds in predicting a kecimen variety when combined with “perimeter” predictor
 *************
