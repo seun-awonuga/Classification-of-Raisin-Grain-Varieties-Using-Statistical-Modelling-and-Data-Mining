@@ -12,7 +12,7 @@ The dataset has a dimension of 900 observations and 8 features. The first 7 colu
 ****************************
 
 # II. Methods
-The methodology will be implemented with R programming language. Also, R is well built to perform a huge variety of run arithmetic calculations and scientific implementation of machine learning algorithms.
+The methodology will be implemented with R programming language. Also, R is well built to perform a huge variety of run arithmetic calculations and scientific implementation of machine learning algorithms. Methods used for this projects are outlined below
 1.  Descriptive statistical summary (mean, skewness, kurtosis, boxplot)
 2.  Collinearity Analysis using Spearman correlation rank
 3.  Feature selection using Random Forest
