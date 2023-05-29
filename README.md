@@ -16,10 +16,10 @@ The methodology will be implemented with R programming language. Also, R is well
 1.  Descriptive statistical summary (mean, skewness, kurtosis, boxplot)
 2.  Collinearity Analysis using Spearman correlation rank
 3.  Feature selection using Random Forest
-4.  Statistical Modelling using Logistic regression
+4.  Statistical Modelling using Logistic regression (univariate & multi variate model)
 
 # III. Results from Statistical Analysis 
-![image](https://github.com/oawonuga92/Classification-of-Raisin-Grain-Varieties-Using-Statistical-Modelling-and-Data-Mining/assets/61459286/dc78cdce-f5b6-412c-8d7a-58364085d2e6)
+![image](https://github.com/oawonuga92/Classification-of-Raisin-Grain-Varieties-Using-Statistical-Modelling-and-Data-Mining/assets/61459286/172e79e0-468b-432d-9986-271ec3f7eb7a)
 
 
 
