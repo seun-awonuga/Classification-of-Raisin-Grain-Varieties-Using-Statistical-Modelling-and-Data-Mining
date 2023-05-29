@@ -21,7 +21,8 @@ The methodology will be implemented with R programming language. Also, R is well
 ***********************
 
 # III. Results from Statistical Analysis 
-![image](https://github.com/oawonuga92/Classification-of-Raisin-Grain-Varieties-Using-Statistical-Modelling-and-Data-Mining/assets/61459286/172e79e0-468b-432d-9986-271ec3f7eb7a)
+![image](https://github.com/oawonuga92/Classification-of-Raisin-Grain-Varieties-Using-Statistical-Modelling-and-Data-Mining/assets/61459286/1d3634aa-981c-4b9d-9245-0dc51634265a)
+
 ***
 ![image](https://github.com/oawonuga92/Classification-of-Raisin-Grain-Varieties-Using-Statistical-Modelling-and-Data-Mining/assets/61459286/74a1fc8e-7376-43cd-b82e-ac951355ded7)
 
